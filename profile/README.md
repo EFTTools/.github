@@ -8,6 +8,7 @@
 
 #### Features (not finalised)
 - 🛠 Quest/Tasks & indepth Quest/Tasks information with built in search for ease of use.
+  - Addition of feature to mark quests as done.
 - 🛠 Map Images & indepth map information detailing, spawns, bosses, player counts etc.
 - 🛠 Ammunition & indepth Ammunition information with built in search for ease of use.
 - 🛠 Flea Market & per item searching of Flea market data detailing prices, bans, etc.
